@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.btn-search {
+   color: #fff;
+   background-color: #499151;
+   border-color: #499151;
+ }
+
+.search-result {
+  width: 100%;
+  border-top: 1px solid #ddd;
+  padding-top: 16px;
+  padding-bottom: 50px;
+}
+
+.scientific-name {
+  font-style: italic;
+}
+
+.result-image {
+  float: right;
+  margin: 4px 0px 5px 20px;
+}
+
+.result-image img {
+  max-height: 150px;
+  max-width: 300px;
+}
+
+
